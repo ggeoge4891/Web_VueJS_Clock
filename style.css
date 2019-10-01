@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  background: #990c0c;
+  background: radial-gradient(circle, #990c0c 4%, #790c0c 12%, #160f0f 93%);
+}
+
+#time {
+  font-size: 6em;
+  color: white;
+  text-shadow: 0 0 20px #dd7070;
+  text-align: center;
+  height: 100vh;
+  line-height: 100vh;
+}
+/*# sourceMappingURL=style.css.map */
